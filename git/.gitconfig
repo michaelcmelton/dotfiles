@@ -1,0 +1,6 @@
+[user]
+    name = michaelcmelton
+    email = michaelcmelton93@gmail.com
+
+[push]
+    autoSetupRemote = true
