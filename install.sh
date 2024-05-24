@@ -1,5 +1,7 @@
 #/bin/bash
 
+set -eoux
+
 GREEN="\033[0;32m"
 ORANGE="\0330;32m"
 LOCAL_DOTFILES_DIR=.dotfiles
